@@ -1,4 +1,4 @@
-iti_e2e_live
+End_to_End_Data_Science_project
 ==============================
 
 live illustration for cookie cuter
